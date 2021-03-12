@@ -1,1 +1,1 @@
-mysql-api
+MySQL Node Express API Walkthrough
